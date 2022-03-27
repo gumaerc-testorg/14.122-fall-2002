@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7cda0914-d344-457e-d364-55cd0481d824
 resourcetype: Document
 title: 'Handout #1: Finding PBE in Signaling Games'
 uid: 0c77aa54-4ed2-ea3d-26fe-d6f9e4460551

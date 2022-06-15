@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on microeconomic theory.
-file: /media/courses/14-122-microeconomic-theory-ii-fall-2002/10215815f14c129e623aff8360cea268_ps4q.pdf
+file: /courses/14-122-microeconomic-theory-ii-fall-2002/10215815f14c129e623aff8360cea268_ps4q.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Problem Set #4'
 uid: 10215815-f14c-129e-623a-ff8360cea268
 ---
+Problem set on microeconomic theory.
+

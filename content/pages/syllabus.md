@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -13,7 +15,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1 hours / session
 
-Syllabus ([PDF]({{< baseurl >}}/resources/syllabus))
+Syllabus ({{% resource_link 0590444e-362a-56b6-511a-725508fdcf73 "PDF" %}})
 
 This course offers an introduction to noncooperative game theory. The course is intended both for graduate students who wish to develop a solid background in game theory in order to pursue research in the applied fields of economics and related disciplines, and for students wishing to specialize in economic theory. While the course is designed for graduate students in economics, it is open to all students who have taken and passed 14.121.
 

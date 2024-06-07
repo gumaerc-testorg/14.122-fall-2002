@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on microeconomic theory and game theory.
 file: /courses/14-122-microeconomic-theory-ii-fall-2002/5cbb0849562cb38c9eeac4bb032877dc_ps5q.pdf
+file_size: 66543
 file_type: application/pdf
 learning_resource_types:
 - Assignments

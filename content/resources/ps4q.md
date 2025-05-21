@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on microeconomic theory.
-file: /ol-ocw-studio-app/courses/14-122-microeconomic-theory-ii-fall-2002/10215815f14c129e623aff8360cea268_ps4q.pdf
+file: /courses/14-122-microeconomic-theory-ii-fall-2002/10215815f14c129e623aff8360cea268_ps4q.pdf
 file_size: 159975
 file_type: application/pdf
 learning_resource_types:

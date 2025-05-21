@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on perfect Bayesian equilibria in signaling games.
-file: /ol-ocw-studio-app/courses/14-122-microeconomic-theory-ii-fall-2002/0c77aa544ed2ea3d26fed6f9e4460551_pbe.pdf
+file: /courses/14-122-microeconomic-theory-ii-fall-2002/0c77aa544ed2ea3d26fed6f9e4460551_pbe.pdf
 file_size: 139347
 file_type: application/pdf
 learning_resource_types:

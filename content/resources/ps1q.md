@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on microeconomic theory and game theory.
-file: /ol-ocw-studio-app/courses/14-122-microeconomic-theory-ii-fall-2002/f956cd1eb715b9f9f6c6c4bc8550d566_ps1q.pdf
+file: /courses/14-122-microeconomic-theory-ii-fall-2002/f956cd1eb715b9f9f6c6c4bc8550d566_ps1q.pdf
 file_size: 136731
 file_type: application/pdf
 learning_resource_types:

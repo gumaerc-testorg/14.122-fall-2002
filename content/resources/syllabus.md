@@ -2,7 +2,7 @@
 content_type: resource
 description: This syllabus provides the course description and a tentative course
   outline.
-file: /ol-ocw-studio-app/courses/14-122-microeconomic-theory-ii-fall-2002/0590444e362a56b6511a725508fdcf73_syllabus.pdf
+file: /courses/14-122-microeconomic-theory-ii-fall-2002/0590444e362a56b6511a725508fdcf73_syllabus.pdf
 file_size: 131511
 file_type: application/pdf
 learning_resource_types: []
